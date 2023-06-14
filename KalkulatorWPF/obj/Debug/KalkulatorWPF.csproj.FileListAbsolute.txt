@@ -1,0 +1,15 @@
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.exe.config
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.exe
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.pdb
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.csprojAssemblyReference.cache
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\App.g.cs
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF_MarkupCompile.cache
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF_MarkupCompile.lref
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\MainWindow.baml
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.g.resources
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.Properties.Resources.resources
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.csproj.GenerateResource.cache
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.csproj.CoreCompileInputs.cache
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.exe
+C:\Users\blumi\Desktop\KalkulatorWPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.pdb
